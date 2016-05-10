@@ -1,0 +1,1 @@
+[{"severity":"warning","location":{"begin_pos":743,"end_pos":744},"message":"Assignment in condition - you probably meant to use `==`.","cop_name":"Lint/AssignmentInCondition","status":"unsupported"}]
